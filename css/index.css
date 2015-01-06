@@ -1,0 +1,78 @@
+#conteiner{
+    width: 100%;
+}
+#cebecalho{
+    width: 1265px;
+    height: 172px;
+    background-image: url(../imagens/2.jpg);
+    background-repeat: no-repeat;
+    border-bottom: 2px solid #000000;
+    font-family:  Gill Sans;
+    font-size: 110px;
+}
+#com_cabecalho{
+    width: 150px;
+    height: 75px;
+    float: right;
+    background-image: url(../imagens/5.jpg);
+
+}
+#barralateral_esq{
+    float: left;
+    width: 155px;
+    height: 600px;
+    background-color: #cccccc;
+    border-right: 2px dashed #000000;
+}
+#barralateral_dir{
+    float: right;
+    width: 155px;
+    height: 600px; 
+    background-color: #cccccc;
+    border-left: 2px dashed #000000;
+}
+#corpo{
+    margin: auto;
+}
+#rodape{
+    clear: both;
+    background-image: url(../imagens/3.jpg);
+    width: 1265px; 
+    height: 120px;
+    background-repeat: no-repeat;
+}
+#logo{
+    background-image: url(../imagens/3.fw.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    width: 135px;
+    height: 30px;
+    float: right;
+    padding-top: 20px;
+    position: relative;
+    top: 60px;
+}
+#botao{
+    background-image: url(../imagens/btngrn_clientes.png);
+    width: 72px;
+    height: 86px;
+    background-repeat: no-repeat;
+    display: block;   
+}
+#botao:hover{
+    background-image: url(../imagens/btngrn_clientes2.png);
+    background-position: 0px 10px;
+}
+#botao2{
+    background-image: url(../imagens/GERENCIAMENTO.jpg);
+    width: 72px;
+    height: 86px;
+    background-repeat: no-repeat;
+    display: block;   
+}
+#botao2:hover{
+    background-image: url(../imagens/GERENCIAMENTO2.jpg);
+    background-position: 0px 10px;
+}
+
+
